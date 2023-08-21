@@ -19,11 +19,13 @@ We then performed the following data preprocessing steps:
 
 During the exploratory data analysis phase, we examined the data distribution and relationships between variables. Key findings include:
 
-We visualized the distribution of various features such as 'International plan', 'Voice mail plan', and 'Area code' with respect to the 'Churn' outcome.
-Histograms were plotted for features like 'Total day minutes', 'Total day calls', 'Total eve minutes', and others to understand the distribution patterns for churned and retained customers.
+* We visualized the distribution of various features such as 'International plan', 'Voice mail plan', and 'Area code' with respect to the 'Churn' outcome.
+* Histograms were plotted for features like 'Total day minutes', 'Total day calls', 'Total eve minutes', and others to understand the distribution patterns for churned and retained customers.
+
 # Imbalanced Dataset Analysis
 
-We examined features such as 'Total night calls', 'Total day calls', 'Total eve calls', and others for their distribution patterns with respect to the 'Churn' outcome. These analyses provided insights into how these features might contribute to customer churn.
+* We examined features such as 'Total night calls', 'Total day calls', 'Total eve calls', and others for their distribution patterns with respect to the 'Churn' outcome.
+* These analyses provided insights into how these features might contribute to customer churn.
 
 # Correlation Analysis
 
