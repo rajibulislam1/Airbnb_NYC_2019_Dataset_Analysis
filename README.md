@@ -6,14 +6,15 @@ The aim of this analysis is to provide insights and develop a customer retention
 
 # Data Preprocessing
 
-In this section, we carried out several preprocessing steps to prepare the data for analysis. The initial steps included importing relevant libraries, loading the dataset, and exploring its structure. The dataset contains 3333 rows and 20 columns.
+* In this section, we carried out several preprocessing steps to prepare the data for analysis. The initial steps included importing relevant libraries, loading the dataset, and exploring its structure.
+* The dataset contains 3333 rows and 20 columns.
 
 We then performed the following data preprocessing steps:
 
-Checked for missing values: There were no missing values in any column of the dataset.
-Checked for duplicate values: We identified and removed duplicated rows from the dataset.
-Converted column names to lowercase for consistency.
-Transformed categorical variables: We converted binary categorical variables (such as 'International plan' and 'Voice mail plan') into numerical format (0 for 'No' and 1 for 'Yes').
+* Checked for missing values: There were no missing values in any column of the dataset.
+* Checked for duplicate values: We identified and removed duplicated rows from the dataset.
+* Converted column names to lowercase for consistency.
+* Transformed categorical variables: We converted binary categorical variables (such as 'International plan' and 'Voice mail plan') into numerical format (0 for 'No' and 1 for 'Yes').
 # Exploratory Data Analysis (EDA)
 
 During the exploratory data analysis phase, we examined the data distribution and relationships between variables. Key findings include:
