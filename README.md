@@ -1,4 +1,4 @@
-# Telecom_Churn
+# Enhancing Customer Retention Strategies in Telecom: A Data-Driven Approach to Reduce Churn Rates
 
 # Introduction
 
